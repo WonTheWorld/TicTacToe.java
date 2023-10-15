@@ -1,11 +1,3 @@
-/*
- * Tic Tac Toe
-By Somya Srivastava
-P. Sai Mounika
- */
-
-
-
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;
